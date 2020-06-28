@@ -1,0 +1,50 @@
+html{
+    background-color: #161616;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+#general{
+    margin: 0 auto;
+    width: 70%;
+}
+#bigtitle{
+    overflow: visible;
+    font-size: 7em;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.sectiontitle{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.sectionbody{
+    text-align: justify;
+    line-height: 150%;
+}
+.section{
+    margin-top: 0.5%;
+    margin-bottom: 5%;
+    padding: 3% 4% 3% 4%;
+    background-color: #1C1C1C;
+    -webkit-box-shadow: 10px 10px 20px -1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 20px -1px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 20px -1px rgba(0,0,0,0.75);
+}
+a:link {
+    color: #3CBCDE;
+  }
+  
+  a:visited {
+    color: grey;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #3c82de;
+    cursor: pointer;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
