@@ -8,7 +8,7 @@ html{
     width: 70%;
 }
 #bigtitle{
-    overflow: visible;
+    text-overflow: ellipsis;
     font-size: 7em;
     padding-top: 5%;
     padding-bottom: 5%;
@@ -29,6 +29,12 @@ html{
     -webkit-box-shadow: 10px 10px 20px -1px rgba(0,0,0,0.75);
 	-moz-box-shadow: 10px 10px 20px -1px rgba(0,0,0,0.75);
 	box-shadow: 10px 10px 20px -1px rgba(0,0,0,0.75);
+}
+.citation{
+  text-align: right;
+  color: rgb(173, 173, 173);
+  font-style: italic;
+  
 }
 a:link {
     color: #3CBCDE;
