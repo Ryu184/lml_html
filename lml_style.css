@@ -34,7 +34,10 @@ html{
   text-align: right;
   color: rgb(173, 173, 173);
   font-style: italic;
-  
+
+}
+.emph{
+  font-style: italic;
 }
 a:link {
     color: #3CBCDE;
