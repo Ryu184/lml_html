@@ -36,6 +36,9 @@ html{
   font-style: italic;
 
 }
+.arg{
+  font-weight: bold;
+}
 .emph{
   font-style: italic;
 }
