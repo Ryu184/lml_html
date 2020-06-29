@@ -43,11 +43,10 @@ html{
   font-style: italic;
   color: lightgreen;
 }
-.del{
+del{
   color: red;
-  text-decoration: line-through;
 }
-.changes{
+ins{
   color: aquamarine;
 }
 a:link {
