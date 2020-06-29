@@ -41,6 +41,14 @@ html{
 }
 .emph{
   font-style: italic;
+  color: lightgreen;
+}
+.del{
+  color: red;
+  text-decoration: line-through;
+}
+.changes{
+  color: aquamarine;
 }
 a:link {
     color: #3CBCDE;
